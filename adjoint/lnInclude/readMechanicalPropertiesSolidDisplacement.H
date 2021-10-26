@@ -1,1 +1,0 @@
-../DASolver/DASolidDisplacementFoam/readMechanicalPropertiesSolidDisplacement.H

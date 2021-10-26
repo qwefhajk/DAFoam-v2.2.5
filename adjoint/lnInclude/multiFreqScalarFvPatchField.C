@@ -1,1 +1,0 @@
-../boundaryConditions/multiFreqScalar/multiFreqScalarFvPatchField.C

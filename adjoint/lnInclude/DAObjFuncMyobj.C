@@ -1,1 +1,0 @@
-../DAObjFunc/DAObjFuncMyobj.C
